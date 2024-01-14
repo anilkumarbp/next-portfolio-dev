@@ -1,24 +1,24 @@
 const seoConfig = {
-  title: 'John Doe',
-  description: 'I’m John and I’m a Backend & Devops engineer!',
+  title: 'Anil Kumar BP',
+  description: 'Hi 👋  I’m Anil Kumar. A software engineer fascinated by the web,especially front-end web development, Web services. \n I Belive in creative, meticulous, thriving 🚀.',
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://portfolio-next.smakosh.com/',
-    siteName: 'Portfolio Next',
+    url: 'https://anilkumarbp.com',
+    siteName: 'Portfolio AnilKumarBP',
     images: [
       {
-        url: 'https://portfolio-next.smakosh.com/assets/thumbnail/thumbnail.png',
+        url: 'https://portfolio-next.anilkumarbp.com/assets/thumbnail/thumbnail.png',
         width: 1200,
         height: 600,
-        alt: 'I’m John and I’m a Backend & Devops engineer!',
+        alt: '🚀',
         type: 'image/png',
       },
     ],
   },
   twitter: {
-    handle: '@smakosh',
-    site: '@smakosh',
+    handle: '@akbp_anil',
+    site: '@anilkumarbp',
     cardType: 'summary_large_image',
   },
 };

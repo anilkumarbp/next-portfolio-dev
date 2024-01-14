@@ -7,7 +7,7 @@ const Skills = () => (
       <div className="flex-none lg:flex-1">
         <Image
           src="/assets/illustrations/skills.svg"
-          alt="I’m John and I’m a Backend & Devops engineer!"
+          alt="I’m Anil Kumar and I’m a UI developer!"
           width={447}
           height={326}
         />
@@ -15,11 +15,10 @@ const Skills = () => (
       <div className="flex-none lg:flex-1 pl-0 lg:pl-8">
         <h2 className="mb-8 text-3xl font-bold text-brand-primary dark:text-white typography">More about me</h2>
         <p className="mb-[2.5rem] font-normal text-xl md:text-[26px] text-brand-secondary dark:text-slate-200 leading-[34px] typography">
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s
-          standard dummy.
+				 8+ years of end-to-end software development experience with focus on front-end engineering. Expertise includes development of high performant & scalable mobile first, responsive user interfaces using latest javscript frameworks and web technologies. \n Proficient in leading projects, including mentorship, stakeholder management, prioritization and communication.
         </p>
         <Link href="#contact" className="button button-primary">
-          Hire me
+          Get in touch  
         </Link>
       </div>
     </div>

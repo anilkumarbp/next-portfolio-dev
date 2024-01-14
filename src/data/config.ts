@@ -1,9 +1,9 @@
 const config = {
-  defaultTitle: 'John Doe',
+  defaultTitle: 'Anil Kumar BP',
   url: process.env.NEXT_PUBLIC_PORTFOLIO_URL!,
-  defaultDescription: 'I’m John and I’m a Backend & Devops engineer!',
-  googleAnalyticsID: 'G-PE8QW0ZGTZ',
-  twitter: '@smakosh',
+  defaultDescription: 'Hi 👋  I’m Anil Kumar. A software engineer fascinated by the web,especially front-end web development, Web services. \n I Belive in creative, meticulous, thriving 🚀.',
+  googleAnalyticsID: '',
+  twitter: '@akbp_anil',
 };
 
 export default config;
