@@ -8,7 +8,7 @@ const getRepos = async (): Promise<RepositoryEdge[]> => {
       query: `
 				query viewer {
 					viewer {
-						repositories(last: 8, orderBy: {field: STARGAZERS, direction: DESC}) {
+						repositories(first: 8, orderBy: {field: STARGAZERS, direction: DESC, fork: true}) {
 							edges {
 								node {
 									id
