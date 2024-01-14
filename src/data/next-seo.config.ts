@@ -1,6 +1,6 @@
 const seoConfig = {
   title: 'Anil Kumar BP',
-  description: 'Hi 👋  I’m Anil Kumar. A software engineer fascinated by the web,especially front-end web development, Web services. \n I Belive in creative, meticulous, thriving 🚀.',
+  description: 'Hi 👋  I’m Anil Kumar. A software engineer fascinated by the web,especially front-end web development, Web services.I Belive in creative, meticulous, thriving 🚀.',
   openGraph: {
     type: 'website',
     locale: 'en_US',

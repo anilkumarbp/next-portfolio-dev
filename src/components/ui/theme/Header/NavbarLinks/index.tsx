@@ -40,7 +40,7 @@ const NavbarLinks = ({ desktop }: NavbarLinksProps) => {
         Projects
       </Link>
 			<Link
-        href={`https://linkedin.com/in/anilkumarbp`}
+        href={`https://anilkumarbp.com`}
         className="text-black mb-4 lg:mb-0 mr-0 lg:mr-4 dark:text-white lg:dark:text-black min-[2170px]:dark:text-white"
         scroll
       >
