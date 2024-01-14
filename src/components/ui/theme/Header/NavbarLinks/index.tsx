@@ -39,6 +39,20 @@ const NavbarLinks = ({ desktop }: NavbarLinksProps) => {
       >
         Projects
       </Link>
+			<Link
+        href={`https://linkedin.com/in/anilkumarbp`}
+        className="text-black mb-4 lg:mb-0 mr-0 lg:mr-4 dark:text-white lg:dark:text-black min-[2170px]:dark:text-white"
+        scroll
+      >
+        School Projects 
+      </Link>
+			<Link
+        href={`https://rockmetalserenity.blogspot.com/2011/11/for-whom-soever-bell-tolls.html`}
+        className="text-black mb-4 lg:mb-0 mr-0 lg:mr-4 dark:text-white lg:dark:text-black min-[2170px]:dark:text-white"
+        scroll
+      >
+        Musings 🎵
+      </Link>
       <Link
         href={`${pathname}#contact`}
         className="text-black mb-4 lg:mb-0 mr-0 lg:mr-4 dark:text-white lg:dark:text-black min-[2170px]:dark:text-white"
