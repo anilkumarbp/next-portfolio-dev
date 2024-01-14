@@ -48,6 +48,8 @@ const NavbarLinks = ({ desktop }: NavbarLinksProps) => {
       </Link>
 			<Link
         href={`https://rockmetalserenity.blogspot.com/2011/11/for-whom-soever-bell-tolls.html`}
+				target="_blank" 
+				rel="noopener noreferrer"
         className="text-black mb-4 lg:mb-0 mr-0 lg:mr-4 dark:text-white lg:dark:text-black min-[2170px]:dark:text-white"
         scroll
       >
