@@ -9,7 +9,7 @@ const Intro = () => (
       <div className="flex-1 w-full md:w-1/2 mb-8 md:mb-0">
         <h1 className="mb-8 text-3xl md:text-5xl font-bold text-brand-primary dark:text-white typography">Hi There ! 👋</h1>
         <h2 className="mb-[2.5rem] text-2xl md:text-4xl text-brand-secondary dark:text-slate-200 typography">
-          I’m Anil Kumar ! A Software Developer fasinated by the Web with a focus on creating high performant, scalable, responsive UI interfaces. Passionate about FE engineering and startups.   
+          I’m Anil Kumar ! A Software engineer fasinated by the Web. Passionate about FE engineering and startups.   
         </h2>
         <Link href="https://linkedin.com/in/anilkumarbp" className="button button-primary" target="_blank" rel="noopener noreferrer">
           Where do I work ? 
