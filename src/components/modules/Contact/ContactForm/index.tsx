@@ -16,7 +16,7 @@ const ContactForm = () => {
         email: '',
         message: '',
         recaptcha: '',
-      }}
+      }}			
       validationSchema={Yup.object().shape({
         name: Yup.string().required('Full name field is required'),
         email: Yup.string().email('Invalid email').required('Email field is required'),
@@ -34,7 +34,7 @@ const ContactForm = () => {
 
           setTimeout(() => resetForm(), 4000);
         } catch (err) {
-          alert('Something went wrong, please try again!');
+          alert('Something went wrong, please try again');
         } finally {
           if (state.errors) {
             state.errors.getFormErrors().forEach((error) => {
