@@ -58,7 +58,7 @@ To Env variables section.
 
    > You could run `vercel env pull` to get your env variables from Vercel.
 
-6. Make sure to edit the `src/data/config.ts` file
+6. Make sure to edit the `src/data/config.ts` file.
 
 ### Deploying locally to Vercel
 
